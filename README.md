@@ -6,6 +6,7 @@ An end-to-end data engineering project that ingests US flight performance data, 
 ![Databricks](https://img.shields.io/badge/Databricks-PySpark%20%7C%20Delta%20Lake-FF3621)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811)
+![Uploading image.png…]()
 
 ---
 
